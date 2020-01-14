@@ -20,7 +20,7 @@ This application mainly focus on the process of the Vendor. When using this appl
 
 
 ## License
-This Project is License under MIT License. Please Refferthe License file. 
+This Project is License under MIT License. Please referrer the  License file. 
 
 ## Screens 
 
